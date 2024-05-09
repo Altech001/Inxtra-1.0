@@ -1,1 +1,1 @@
-# Inxtra-1. hello
+inxtra is a package mananger web app that has a collection of software installers.
